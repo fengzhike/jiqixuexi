@@ -76,6 +76,7 @@ http://blog.csdn.net/acdreamers/article/details/44657439
 	![](./img/3.png)
 	
 	* 偏重更新
+
 	![](./img/4.png)
 
 3. 训练终止
@@ -92,7 +93,7 @@ http://blog.csdn.net/acdreamers/article/details/44657439
 	* 步长（极值处小一些，前面大一些比较好）
 
 
-![](./img/2.png)
+	![](./img/2.png)
 
 ## 训练NN
 * 不断通过样例调整偏置和权重的过程
